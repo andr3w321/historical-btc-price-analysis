@@ -1,0 +1,12 @@
+Bull Bear Trends for 200 day moving average ignoring trends shorter than 10 day or with ROI < 1%
+2011-11-14 9.09 10493.44% in 484 days
+2012-03-27 4.41 -51.45% in 134 days
+2013-10-24 114.26 2514.27% in 555 days
+2014-06-05 655.24 475.07% in 222 days
+2014-07-05 617.12 -5.93% in 27 days
+2015-07-22 246.18 -60.12% in 378 days
+2015-08-13 250.17 1.57% in 18 days
+2015-10-10 245.40 -1.95% in 29 days
+2017-11-29 9816.35 3900.24% in 779 days
+Avg Bull Run: 3476.92% over 411.6 days
+Avg Bear Run: -29.86% over 142.0 days
