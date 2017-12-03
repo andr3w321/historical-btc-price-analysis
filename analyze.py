@@ -158,5 +158,5 @@ sorted_dates = sorted(res_price["bpi"], key=lambda x: datetime.datetime.strptime
 # graph_google_trends_and_price("./output/2017-google-trends.png", datetime.date(2017,11,29), datetime.date(2017,1,1))
 # print_yearly_returns()
 
-#print_bull_bear_trends(30, 10, 1, "./output/30-day-ma.png")
+print_bull_bear_trends(30, 10, 1, "./output/30-day-ma.png")
 print_bull_bear_trends(200, 10, 1, "./output/200-day-ma.png")
